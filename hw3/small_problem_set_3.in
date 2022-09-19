@@ -1,0 +1,551 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 3
+problems: 100
+
+data:
+
+ - problem: 1
+   correct_answer: 2
+   roadLength: 10
+   range: 10
+   towers: [0,10]
+
+ - problem: 2
+   correct_answer: 2
+   roadLength: 10
+   range: 10
+   towers: [0,1,1]
+
+ - problem: 3
+   roadLength: 11
+   range: 10
+   towers: [2,11]
+
+ - problem: 4
+   correct_answer: 2
+   roadLength: 11
+   range: 10
+   towers: [1,3,10]
+
+ - problem: 5
+   correct_answer: 2
+   roadLength: 12
+   range: 10
+   towers: [3,9]
+
+ - problem: 6
+   correct_answer: 2
+   roadLength: 12
+   range: 10
+   towers: [0,7,10]
+
+ - problem: 7
+   roadLength: 13
+   range: 10
+   towers: [10,11]
+
+ - problem: 8
+   correct_answer: 2
+   roadLength: 13
+   range: 10
+   towers: [7,10,11]
+
+ - problem: 9
+   correct_answer: 2
+   roadLength: 14
+   range: 10
+   towers: [5,5]
+
+ - problem: 10
+   correct_answer: 2
+   roadLength: 14
+   range: 10
+   towers: [4,4,9]
+
+ - problem: 11
+   correct_answer: 2
+   roadLength: 15
+   range: 10
+   towers: [7,8]
+
+ - problem: 12
+   roadLength: 15
+   range: 10
+   towers: [0,4,5]
+
+ - problem: 13
+   roadLength: 16
+   range: 10
+   towers: [3,6]
+
+ - problem: 14
+   correct_answer: 3
+   roadLength: 16
+   range: 10
+   towers: [4,6,14]
+
+ - problem: 15
+   roadLength: 17
+   range: 10
+   towers: [3,7]
+
+ - problem: 16
+   roadLength: 17
+   range: 10
+   towers: [7,13,17]
+
+ - problem: 17
+   roadLength: 18
+   range: 10
+   towers: [9,13]
+
+ - problem: 18
+   roadLength: 18
+   range: 10
+   towers: [0,1,3]
+
+ - problem: 19
+   roadLength: 19
+   range: 10
+   towers: [2,6]
+
+ - problem: 20
+   roadLength: 19
+   range: 10
+   towers: [0,11,15]
+
+ - problem: 21
+   correct_answer: 3
+   roadLength: 20
+   range: 10
+   towers: [7,8,10,12]
+
+ - problem: 22
+   correct_answer: 3
+   roadLength: 20
+   range: 10
+   towers: [1,10,15,16,18,19]
+
+ - problem: 23
+   roadLength: 21
+   range: 10
+   towers: [0,10,10,16]
+
+ - problem: 24
+   roadLength: 21
+   range: 10
+   towers: [5,12,14,18,19,19]
+
+ - problem: 25
+   roadLength: 22
+   range: 10
+   towers: [2,3,7,21]
+
+ - problem: 26
+   correct_answer: 4
+   roadLength: 22
+   range: 10
+   towers: [5,10,10,10,13,18]
+
+ - problem: 27
+   correct_answer: 4
+   roadLength: 23
+   range: 10
+   towers: [1,9,21,23]
+
+ - problem: 28
+   roadLength: 23
+   range: 10
+   towers: [4,12,13,13,16,23]
+
+ - problem: 29
+   roadLength: 24
+   range: 10
+   towers: [6,13,23,24]
+
+ - problem: 30
+   correct_answer: 4
+   roadLength: 24
+   range: 10
+   towers: [3,5,5,12,20,24]
+
+ - problem: 31
+   roadLength: 25
+   range: 10
+   towers: [0,3,5,6]
+
+ - problem: 32
+   roadLength: 25
+   range: 10
+   towers: [2,5,11,13,14,23]
+
+ - problem: 33
+   roadLength: 26
+   range: 10
+   towers: [10,12,23,25]
+
+ - problem: 34
+   roadLength: 26
+   range: 10
+   towers: [3,13,14,18,19,23]
+
+ - problem: 35
+   roadLength: 27
+   range: 10
+   towers: [0,15,24,26]
+
+ - problem: 36
+   roadLength: 27
+   range: 10
+   towers: [0,11,12,21,24,26]
+
+ - problem: 37
+   roadLength: 28
+   range: 10
+   towers: [0,4,10,27]
+
+ - problem: 38
+   correct_answer: 5
+   roadLength: 28
+   range: 10
+   towers: [6,7,15,16,27,27]
+
+ - problem: 39
+   roadLength: 29
+   range: 10
+   towers: [3,7,9,10]
+
+ - problem: 40
+   correct_answer: 4
+   roadLength: 29
+   range: 10
+   towers: [4,9,17,21,26,28]
+
+ - problem: 41
+   correct_answer: 4
+   roadLength: 30
+   range: 10
+   towers: [2,7,16,22,25,26]
+
+ - problem: 42
+   correct_answer: 4
+   roadLength: 30
+   range: 10
+   towers: [4,9,10,13,21,24,27,27,29]
+
+ - problem: 43
+   correct_answer: 4
+   roadLength: 31
+   range: 10
+   towers: [2,10,11,21,27,27]
+
+ - problem: 44
+   correct_answer: 4
+   roadLength: 31
+   range: 10
+   towers: [5,9,10,16,20,24,24,26,31]
+
+ - problem: 45
+   roadLength: 32
+   range: 10
+   towers: [6,9,13,13,20,21]
+
+ - problem: 46
+   roadLength: 32
+   range: 10
+   towers: [4,14,16,17,22,22,26,28,31]
+
+ - problem: 47
+   roadLength: 33
+   range: 10
+   towers: [4,12,14,16,19,29]
+
+ - problem: 48
+   correct_answer: 4
+   roadLength: 33
+   range: 10
+   towers: [0,6,8,14,15,22,25,25,31]
+
+ - problem: 49
+   roadLength: 34
+   range: 10
+   towers: [8,17,22,24,28,29]
+
+ - problem: 50
+   roadLength: 34
+   range: 10
+   towers: [1,3,4,10,14,18,19,22,30]
+
+ - problem: 51
+   roadLength: 35
+   range: 10
+   towers: [1,5,15,17,24,32]
+
+ - problem: 52
+   correct_answer: 6
+   roadLength: 35
+   range: 10
+   towers: [3,6,6,12,13,21,23,27,35]
+
+ - problem: 53
+   roadLength: 36
+   range: 10
+   towers: [10,20,22,23,24,29]
+
+ - problem: 54
+   correct_answer: 6
+   roadLength: 36
+   range: 10
+   towers: [3,4,12,16,22,33,34,34,36]
+
+ - problem: 55
+   roadLength: 37
+   range: 10
+   towers: [12,16,18,20,23,34]
+
+ - problem: 56
+   correct_answer: 6
+   roadLength: 37
+   range: 10
+   towers: [1,3,9,19,20,21,23,31,32]
+
+ - problem: 57
+   roadLength: 38
+   range: 10
+   towers: [6,16,21,27,27,31]
+
+ - problem: 58
+   correct_answer: 5
+   roadLength: 38
+   range: 10
+   towers: [9,9,10,10,16,20,21,30,38]
+
+ - problem: 59
+   roadLength: 39
+   range: 10
+   towers: [11,23,26,29,30,38]
+
+ - problem: 60
+   correct_answer: 6
+   roadLength: 39
+   range: 10
+   towers: [3,9,16,16,17,18,24,33,36]
+
+ - problem: 61
+   roadLength: 40
+   range: 10
+   towers: [2,5,9,19,20,24,25,27]
+
+ - problem: 62
+   correct_answer: 5
+   roadLength: 40
+   range: 10
+   towers: [8,9,10,13,18,23,26,30,33,34,38,39]
+
+ - problem: 63
+   correct_answer: 6
+   roadLength: 41
+   range: 10
+   towers: [1,3,8,18,25,27,32,37]
+
+ - problem: 64
+   roadLength: 41
+   range: 10
+   towers: [0,0,2,2,4,9,11,13,14,26,36,41]
+
+ - problem: 65
+   correct_answer: 6
+   roadLength: 42
+   range: 10
+   towers: [0,2,15,18,20,30,35,40]
+
+ - problem: 66
+   roadLength: 42
+   range: 10
+   towers: [1,6,7,8,13,17,17,19,25,28,31,32]
+
+ - problem: 67
+   roadLength: 43
+   range: 10
+   towers: [1,4,8,10,23,34,35,38]
+
+ - problem: 68
+   roadLength: 43
+   range: 10
+   towers: [1,5,5,24,26,26,27,30,33,39,39,39]
+
+ - problem: 69
+   roadLength: 44
+   range: 10
+   towers: [0,6,10,14,39,39,43,43]
+
+ - problem: 70
+   correct_answer: 6
+   roadLength: 44
+   range: 10
+   towers: [1,1,10,16,16,27,28,32,35,37,40,44]
+
+ - problem: 71
+   roadLength: 45
+   range: 10
+   towers: [4,5,12,16,19,26,40,41]
+
+ - problem: 72
+   correct_answer: 7
+   roadLength: 45
+   range: 10
+   towers: [2,6,17,18,19,20,20,21,29,33,40,44]
+
+ - problem: 73
+   roadLength: 46
+   range: 10
+   towers: [2,3,15,21,22,33,34,38]
+
+ - problem: 74
+   roadLength: 46
+   range: 10
+   towers: [1,2,4,9,11,11,13,20,24,24,43,45]
+
+ - problem: 75
+   correct_answer: 6
+   roadLength: 47
+   range: 10
+   towers: [1,9,17,21,26,30,39,43]
+
+ - problem: 76
+   roadLength: 47
+   range: 10
+   towers: [1,5,7,15,19,20,20,22,30,31,34,41]
+
+ - problem: 77
+   roadLength: 48
+   range: 10
+   towers: [22,26,26,26,27,35,36,47]
+
+ - problem: 78
+   correct_answer: 7
+   roadLength: 48
+   range: 10
+   towers: [1,1,2,3,10,14,25,32,35,39,43,45]
+
+ - problem: 79
+   roadLength: 49
+   range: 10
+   towers: [4,11,27,33,36,39,46,49]
+
+ - problem: 80
+   roadLength: 49
+   range: 10
+   towers: [0,0,10,11,13,13,20,20,20,24,41,49]
+
+ - problem: 81
+   correct_answer: 8
+   roadLength: 50
+   range: 10
+   towers: [2,4,4,5,17,22,28,30,43,49]
+
+ - problem: 82
+   correct_answer: 6
+   roadLength: 50
+   range: 10
+   towers: [6,8,10,10,11,11,17,23,26,30,32,33,42,42,48]
+
+ - problem: 83
+   correct_answer: 8
+   roadLength: 51
+   range: 10
+   towers: [1,10,11,16,21,27,37,40,49,50]
+
+ - problem: 84
+   correct_answer: 6
+   roadLength: 51
+   range: 10
+   towers: [4,8,9,11,25,26,29,30,31,36,41,43,48,49,50]
+
+ - problem: 85
+   roadLength: 52
+   range: 10
+   towers: [0,9,9,11,19,29,31,34,35,49]
+
+ - problem: 86
+   correct_answer: 6
+   roadLength: 52
+   range: 10
+   towers: [0,6,9,12,21,24,28,32,36,41,42,44,46,49,50]
+
+ - problem: 87
+   roadLength: 53
+   range: 10
+   towers: [13,29,30,31,31,38,44,50,51,51]
+
+ - problem: 88
+   roadLength: 53
+   range: 10
+   towers: [0,11,12,16,22,22,32,32,34,34,37,38,42,50,53]
+
+ - problem: 89
+   roadLength: 54
+   range: 10
+   towers: [2,3,9,17,18,21,21,25,39,48]
+
+ - problem: 90
+   correct_answer: 7
+   roadLength: 54
+   range: 10
+   towers: [7,9,13,18,21,21,25,29,30,42,46,46,47,47,48]
+
+ - problem: 91
+   roadLength: 55
+   range: 10
+   towers: [26,33,34,40,48,51,52,52,53,55]
+
+ - problem: 92
+   correct_answer: 8
+   roadLength: 55
+   range: 10
+   towers: [2,8,10,12,18,18,22,24,25,27,43,44,48,49,55]
+
+ - problem: 93
+   roadLength: 56
+   range: 10
+   towers: [8,9,23,36,42,43,44,49,55,56]
+
+ - problem: 94
+   correct_answer: 8
+   roadLength: 56
+   range: 10
+   towers: [1,7,8,15,16,22,24,27,31,33,37,38,42,53,56]
+
+ - problem: 95
+   roadLength: 57
+   range: 10
+   towers: [3,23,24,27,30,36,41,51,54,55]
+
+ - problem: 96
+   roadLength: 57
+   range: 10
+   towers: [3,6,7,10,14,20,23,23,39,39,40,41,41,46,49]
+
+ - problem: 97
+   roadLength: 58
+   range: 10
+   towers: [1,5,9,15,23,31,32,36,37,57]
+
+ - problem: 98
+   correct_answer: 8
+   roadLength: 58
+   range: 10
+   towers: [0,4,6,13,15,17,17,23,31,35,42,42,44,54,55]
+
+ - problem: 99
+   roadLength: 59
+   range: 10
+   towers: [6,13,32,35,37,42,43,43,45,52]
+
+ - problem: 100
+   correct_answer: 8
+   roadLength: 59
+   range: 10
+   towers: [5,6,9,20,23,26,33,34,37,49,50,53,54,58,59]

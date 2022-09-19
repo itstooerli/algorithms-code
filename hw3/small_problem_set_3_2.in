@@ -1,0 +1,19 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 3
+problems: 2
+
+data:
+
+ - problem: 1
+   correct_answer: 2
+   roadLength: 11
+   range: 10
+   towers: [0,10]
+
+ - problem: 2
+   correct_answer: 8
+   roadLength: 59
+   range: 10
+   towers: [5,6,9,20,23,26,33,34,37,49,50,53,54,58,59]
