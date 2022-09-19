@@ -1,0 +1,806 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 3
+problems: 100
+
+data:
+
+ - problem: 1
+   correct_answer: 48
+   prices: [1261,1553,1377,1887,1234]
+   ids: [0]
+   premiums: [1]
+   neighborhood_radius: 2
+   cycles: 2
+
+ - problem: 2
+   correct_answer: -7
+   prices: [1610,1770,1797,1361,1463]
+   ids: [1]
+   premiums: [8]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 3
+   correct_answer: -37
+   prices: [1284,1223,1835,1805,1898]
+   ids: [2]
+   premiums: [27]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 4
+   correct_answer: 84
+   prices: [1370,1090,1949,1997,1649]
+   ids: [1]
+   premiums: [41]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 5
+   correct_answer: -13
+   prices: [1707,1482,1040,1607,1426]
+   ids: [1]
+   premiums: [6]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 6
+   prices: [1380,1148,1303,1264,1422]
+   ids: [2]
+   premiums: [57]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 7
+   correct_answer: -90
+   prices: [1881,1890,1313,1967,1264]
+   ids: [3]
+   premiums: [1]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 8
+   correct_answer: -37
+   prices: [1246,1633,1908,1576,1223]
+   ids: [2]
+   premiums: [18]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 9
+   correct_answer: 8
+   prices: [1657,1131,1296,1030,1324]
+   ids: [4]
+   premiums: [31]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 10
+   correct_answer: -52
+   prices: [1243,1771,1369,1964,1851]
+   ids: [1]
+   premiums: [50]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 11
+   correct_answer: -36
+   prices: [1736,1163,1629,1203,1657]
+   ids: [0]
+   premiums: [37]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 12
+   correct_answer: -26
+   prices: [1670,1552,1945,1689,1207]
+   ids: [2]
+   premiums: [83]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 13
+   correct_answer: 2
+   prices: [1467,1140,1832,1113,1822]
+   ids: [0]
+   premiums: [4]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 14
+   correct_answer: -22
+   prices: [1945,1143,1010,1251,1107]
+   ids: [3]
+   premiums: [18]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 15
+   correct_answer: -6
+   prices: [1688,1752,1930,1611,1448]
+   ids: [0]
+   premiums: [25]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 16
+   correct_answer: 59
+   prices: [1318,1873,1494,1914,1605]
+   ids: [0]
+   premiums: [16]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 17
+   correct_answer: -67
+   prices: [1195,1788,1338,1076,1293]
+   ids: [1]
+   premiums: [9]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 18
+   correct_answer: -4
+   prices: [1390,1823,1726,1562,1635]
+   ids: [4]
+   premiums: [82]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 19
+   correct_answer: 7
+   prices: [1354,1065,1263,1562,1805]
+   ids: [2]
+   premiums: [6]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 20
+   correct_answer: 57
+   prices: [1632,1193,1945,1460,1812]
+   ids: [3]
+   premiums: [9]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 21
+   correct_answer: 74
+   prices: [1491,1132,1102,1592,1033,1397]
+   ids: [4,4]
+   premiums: [20,33]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 22
+   correct_answer: 21
+   prices: [1707,1789,1380,1167,1625,1202]
+   ids: [1,3]
+   premiums: [42,25]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 23
+   correct_answer: -30
+   prices: [1184,1688,1497,1204,1745,1667]
+   ids: [2,1]
+   premiums: [48,33]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 24
+   correct_answer: 26
+   prices: [1544,1656,1662,1150,1097,1132]
+   ids: [5,0]
+   premiums: [33,50]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 25
+   correct_answer: 15
+   prices: [1398,1521,1389,1425,1046,1837]
+   ids: [1,0]
+   premiums: [6,11]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 26
+   correct_answer: 102
+   prices: [1006,1520,1689,1695,1535,1806]
+   ids: [4,0]
+   premiums: [25,7]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 27
+   correct_answer: -35
+   prices: [1911,1410,1163,1935,1570,1604]
+   ids: [0,5]
+   premiums: [21,30]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 28
+   correct_answer: -109
+   prices: [1552,1109,1728,1006,1372,1262]
+   ids: [2,0]
+   premiums: [16,21]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 29
+   correct_answer: -55
+   prices: [1723,1993,1989,1992,1178,1962]
+   ids: [2,5]
+   premiums: [2,2]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 30
+   correct_answer: 12
+   prices: [1411,1638,1316,1288,1277,1241]
+   ids: [0,4]
+   premiums: [5,61]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 31
+   correct_answer: -44
+   prices: [1737,1118,1581,1431,1526,1466]
+   ids: [2,2]
+   premiums: [9,1]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 32
+   correct_answer: 30
+   prices: [1288,1413,1464,1505,1513,1697]
+   ids: [0,3]
+   premiums: [11,6]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 33
+   correct_answer: -29
+   prices: [1989,1953,1945,1272,1926,1583]
+   ids: [0,0]
+   premiums: [45,6]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 34
+   correct_answer: 37
+   prices: [1584,1504,1558,1769,1600,1280]
+   ids: [2,1]
+   premiums: [51,43]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 35
+   correct_answer: 24
+   prices: [1310,1296,1534,1956,1788,1553]
+   ids: [0,5]
+   premiums: [25,13]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 36
+   correct_answer: -7
+   prices: [1068,1868,1409,1957,1874,1345]
+   ids: [1,0]
+   premiums: [66,71]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 37
+   correct_answer: 22
+   prices: [1563,1160,1032,1785,1673,1008]
+   ids: [2,4]
+   premiums: [14,14]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 38
+   correct_answer: -43
+   prices: [1744,1935,1031,1035,1436,1292]
+   ids: [4,0]
+   premiums: [0,6]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 39
+   correct_answer: 20
+   prices: [1002,1188,1769,1948,1388,1879]
+   ids: [1,2]
+   premiums: [38,33]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 40
+   correct_answer: 6
+   prices: [1360,1874,1457,1568,1695,1557]
+   ids: [5,5]
+   premiums: [19,56]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 41
+   correct_answer: -3
+   prices: [1973,1447,1235,1032,1400,1473,1398]
+   ids: [0,2,3]
+   premiums: [83,34,22]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 42
+   correct_answer: 40
+   prices: [1713,1844,1678,1317,1239,1708,1197]
+   ids: [6,2,2]
+   premiums: [0,84,1]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 43
+   correct_answer: -51
+   prices: [1855,1403,1773,1094,1356,1833,1907]
+   ids: [0,6,5]
+   premiums: [5,6,11]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 44
+   correct_answer: 48
+   prices: [1065,1330,1758,1453,1037,1831,1975]
+   ids: [4,2,4]
+   premiums: [15,18,24]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 45
+   correct_answer: 47
+   prices: [1214,1025,1114,1433,1605,1128,1041]
+   ids: [5,6,0]
+   premiums: [49,38,26]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 46
+   correct_answer: 23
+   prices: [1560,1872,1015,1149,1079,1219,1280]
+   ids: [4,5,0]
+   premiums: [9,10,63]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 47
+   correct_answer: 26
+   prices: [1891,1649,1339,1011,1211,1097,1473]
+   ids: [3,1,1]
+   premiums: [13,39,15]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 48
+   correct_answer: -152
+   prices: [1077,1530,1220,1600,1078,1936,1223]
+   ids: [5,3,1]
+   premiums: [0,10,2]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 49
+   correct_answer: 12
+   prices: [1189,1706,1999,1094,1161,1452,1646]
+   ids: [6,0,6]
+   premiums: [5,14,15]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 50
+   correct_answer: 34
+   prices: [1655,1898,1235,1050,1625,1551,1544]
+   ids: [5,6,2]
+   premiums: [0,0,13]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 51
+   correct_answer: -6
+   prices: [1319,1912,1314,1895,1489,1148,1224]
+   ids: [3,4,2]
+   premiums: [19,6,53]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 52
+   correct_answer: 67
+   prices: [1381,1215,1151,1950,1947,1587,1141]
+   ids: [5,2,2]
+   premiums: [63,25,47]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 53
+   correct_answer: 97
+   prices: [1923,1491,1225,1989,1707,1787,1825]
+   ids: [1,2,2]
+   premiums: [22,86,84]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 54
+   correct_answer: 21
+   prices: [1161,1300,1444,1916,1997,1271,1406]
+   ids: [2,0,3]
+   premiums: [3,0,0]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 55
+   correct_answer: 6
+   prices: [1604,1871,1382,1820,1628,1563,1048]
+   ids: [1,6,1]
+   premiums: [16,8,12]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 56
+   correct_answer: -39
+   prices: [1388,1866,1333,1381,1427,1134,1203]
+   ids: [3,1,0]
+   premiums: [38,14,21]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 57
+   correct_answer: 30
+   prices: [1880,1598,1315,1126,1662,1608,1979]
+   ids: [1,3,6]
+   premiums: [52,26,49]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 58
+   correct_answer: -63
+   prices: [1205,1889,1767,1761,1571,1924,1968]
+   ids: [3,5,6]
+   premiums: [2,9,10]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 59
+   correct_answer: 27
+   prices: [1676,1404,1618,1840,1137,1044,1554]
+   ids: [4,4,6]
+   premiums: [55,30,4]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 60
+   correct_answer: -24
+   prices: [1216,1926,1134,1337,1230,1405,1205]
+   ids: [2,1,5]
+   premiums: [5,4,3]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 61
+   correct_answer: 50
+   prices: [1670,1753,1149,1321,1385,1520,1811,1502]
+   ids: [4,2,3,3]
+   premiums: [5,16,5,14]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 62
+   correct_answer: 31
+   prices: [1514,1934,1663,1057,1230,1977,1908,1454]
+   ids: [0,0,4,5]
+   premiums: [38,28,37,23]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 63
+   correct_answer: 35
+   prices: [1865,1158,1342,1409,1200,1177,1005,1277]
+   ids: [2,5,5,1]
+   premiums: [20,35,54,10]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 64
+   correct_answer: 74
+   prices: [1524,1449,1038,1641,1150,1472,1028,1639]
+   ids: [0,2,0,1]
+   premiums: [30,65,46,74]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 65
+   correct_answer: 41
+   prices: [1173,1184,1189,1238,1821,1922,1760,1282]
+   ids: [7,2,7,2]
+   premiums: [77,4,48,76]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 66
+   correct_answer: -11
+   prices: [1008,1190,1974,1919,1675,1388,1263,1712]
+   ids: [2,5,6,2]
+   premiums: [0,4,5,8]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 67
+   correct_answer: -17
+   prices: [1049,1307,1187,1004,1975,1658,1862,1740]
+   ids: [4,1,0,0]
+   premiums: [21,14,20,6]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 68
+   correct_answer: -33
+   prices: [1325,1219,1481,1282,1218,1636,1599,1898]
+   ids: [1,2,7,7]
+   premiums: [38,14,41,36]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 69
+   correct_answer: 40
+   prices: [1833,1922,1093,1280,1470,1659,1467,1552]
+   ids: [6,2,5,0]
+   premiums: [0,3,41,11]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 70
+   correct_answer: -41
+   prices: [1126,1590,1173,1805,1311,1764,1796,1414]
+   ids: [7,1,7,5]
+   premiums: [63,3,4,34]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 71
+   correct_answer: 33
+   prices: [1341,1539,1387,1048,1757,1430,1217,1191]
+   ids: [7,7,6,6]
+   premiums: [84,2,52,10]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 72
+   correct_answer: -37
+   prices: [1086,1529,1007,1148,1421,1891,1111,1130]
+   ids: [5,2,1,6]
+   premiums: [8,5,0,0]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 73
+   correct_answer: 0
+   prices: [1772,1199,1394,1676,1018,1309,1267,1673]
+   ids: [0,7,2,4]
+   premiums: [13,10,18,14]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 74
+   correct_answer: 51
+   prices: [1056,1361,1527,1057,1775,1150,1473,1243]
+   ids: [5,7,0,2]
+   premiums: [25,32,44,10]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 75
+   correct_answer: 15
+   prices: [1917,1466,1802,1655,1974,1947,1622,1883]
+   ids: [2,5,1,3]
+   premiums: [11,34,10,15]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 76
+   correct_answer: -16
+   prices: [1177,1779,1477,1738,1847,1261,1783,1132]
+   ids: [5,4,1,6]
+   premiums: [35,37,52,32]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 77
+   correct_answer: -18
+   prices: [1468,1525,1040,1935,1854,1878,1080,1795]
+   ids: [3,3,0,3]
+   premiums: [77,78,87,74]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 78
+   correct_answer: -65
+   prices: [1063,1490,1535,1210,1835,1928,1161,1854]
+   ids: [5,2,5,2]
+   premiums: [11,5,6,10]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 79
+   correct_answer: 27
+   prices: [1000,1760,1497,1775,1767,1200,1746,1894]
+   ids: [4,4,0,7]
+   premiums: [17,19,28,22]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 80
+   correct_answer: 36
+   prices: [1534,1188,1610,1380,1018,1465,1561,1354]
+   ids: [4,6,6,3]
+   premiums: [11,34,41,45]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 81
+   correct_answer: -9
+   prices: [1352,1009,1117,1903,1019,1467,1510,1520,1897]
+   ids: [4,3,6,3,4]
+   premiums: [19,11,8,1,29]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 82
+   correct_answer: 101
+   prices: [1453,1282,1233,1727,1898,1669,1659,1002,1816]
+   ids: [7,4,0,1,7]
+   premiums: [66,69,63,23,68]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 83
+   correct_answer: 49
+   prices: [1672,1321,1478,1564,1623,1504,1211,1879,1495]
+   ids: [2,5,6,7,1]
+   premiums: [13,92,11,79,69]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 84
+   correct_answer: 17
+   prices: [1805,1571,1518,1662,1221,1150,1318,1974,1978]
+   ids: [8,2,4,3,5]
+   premiums: [14,6,9,0,7]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 85
+   correct_answer: -9
+   prices: [1393,1512,1553,1822,1501,1660,1616,1567,1684]
+   ids: [1,0,5,0,3]
+   premiums: [0,14,7,15,11]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 86
+   correct_answer: 8
+   prices: [1921,1744,1895,1046,1605,1806,1571,1072,1859]
+   ids: [7,8,0,4,5]
+   premiums: [27,33,48,3,29]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 87
+   correct_answer: -2
+   prices: [1661,1474,1494,1593,1106,1333,1531,1568,1052]
+   ids: [5,4,0,3,2]
+   premiums: [33,21,36,4,26]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 88
+   correct_answer: 112
+   prices: [1888,1117,1653,1262,1969,1698,1885,1608,1881]
+   ids: [3,3,4,5,1]
+   premiums: [14,37,39,2,40]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 89
+   correct_answer: 50
+   prices: [1823,1926,1235,1662,1523,1710,1213,1608,1575]
+   ids: [4,3,0,6,4]
+   premiums: [72,48,4,82,56]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 90
+   correct_answer: -85
+   prices: [1042,1255,1100,1567,1796,1766,1907,1077,1757]
+   ids: [8,4,6,2,6]
+   premiums: [0,0,13,3,1]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 91
+   correct_answer: -30
+   prices: [1792,1990,1170,1170,1035,1270,1605,1928,1208]
+   ids: [2,1,3,1,7]
+   premiums: [25,25,13,11,11]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 92
+   correct_answer: 46
+   prices: [1220,1359,1663,1337,1942,1624,1622,1478,1049]
+   ids: [8,8,6,5,8]
+   premiums: [26,19,11,22,39]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 93
+   correct_answer: 12
+   prices: [1568,1847,1663,1925,1386,1320,1939,1580,1727]
+   ids: [7,7,4,6,3]
+   premiums: [53,66,5,20,62]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 94
+   correct_answer: 29
+   prices: [1960,1615,1688,1217,1777,1570,1590,1763,1637]
+   ids: [0,3,6,6,0]
+   premiums: [49,77,58,8,28]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 95
+   correct_answer: 16
+   prices: [1185,1939,1928,1704,1951,1491,1522,1328,1244]
+   ids: [6,1,6,0,8]
+   premiums: [31,28,59,59,59]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 96
+   correct_answer: 1
+   prices: [1321,1187,1410,1344,1249,1251,1158,1811,1491]
+   ids: [2,5,0,8,0]
+   premiums: [12,1,16,14,10]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 97
+   correct_answer: -79
+   prices: [1428,1832,1406,1561,1270,1629,1402,1454,1581]
+   ids: [3,1,8,5,5]
+   premiums: [5,22,13,9,22]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 98
+   correct_answer: 13
+   prices: [1720,1277,1883,1107,1154,1480,1881,1772,1669]
+   ids: [0,1,4,6,6]
+   premiums: [42,0,16,19,45]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 99
+   correct_answer: -40
+   prices: [1834,1996,1953,1118,1919,1463,1244,1085,1855]
+   ids: [2,1,8,7,2]
+   premiums: [23,52,59,29,47]
+   neighborhood_radius: 1
+   cycles: 1
+
+ - problem: 100
+   correct_answer: -36
+   prices: [1125,1264,1482,1858,1416,1438,1968,1488,1786]
+   ids: [6,3,5,2,5]
+   premiums: [46,66,56,46,29]
+   neighborhood_radius: 1
+   cycles: 1

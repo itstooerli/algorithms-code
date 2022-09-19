@@ -1,0 +1,707 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 6
+problems: 100
+
+data:
+
+ - problem: 1
+   correct_answer: 2
+   alice: [1,1,0,0,0]
+   bob: [1,0,1,0,0]
+   start_times: [0]
+   finish_times: [2]
+
+ - problem: 2
+   correct_answer: 3
+   alice: [1,3,2,3,1]
+   bob: [2,3,2,1,2]
+   start_times: [1]
+   finish_times: [4]
+
+ - problem: 3
+   correct_answer: 0
+   alice: [3,1,1,1,2]
+   bob: [2,0,3,3,0]
+   start_times: [2]
+   finish_times: [4]
+
+ - problem: 4
+   correct_answer: 1
+   alice: [3,3,0,2,0]
+   bob: [3,1,3,2,3]
+   start_times: [1]
+   finish_times: [2]
+
+ - problem: 5
+   correct_answer: 0
+   alice: [2,0,2,2,0]
+   bob: [3,0,2,1,1]
+   start_times: [0]
+   finish_times: [0]
+
+ - problem: 6
+   correct_answer: 0
+   alice: [1,3,2,3,2]
+   bob: [2,2,3,2,0]
+   start_times: [0]
+   finish_times: [1]
+
+ - problem: 7
+   correct_answer: 1
+   alice: [0,0,0,1,3]
+   bob: [3,3,3,1,3]
+   start_times: [3]
+   finish_times: [3]
+
+ - problem: 8
+   correct_answer: 0
+   alice: [3,1,1,2,1]
+   bob: [3,2,2,0,2]
+   start_times: [3]
+   finish_times: [3]
+
+ - problem: 9
+   correct_answer: 0
+   alice: [1,0,0,3,0]
+   bob: [3,2,2,3,2]
+   start_times: [0]
+   finish_times: [1]
+
+ - problem: 10
+   correct_answer: 2
+   alice: [2,0,1,2,0]
+   bob: [2,2,1,3,3]
+   start_times: [1]
+   finish_times: [4]
+
+ - problem: 11
+   correct_answer: 2
+   alice: [2,2,0,0,1]
+   bob: [1,2,3,3,1]
+   start_times: [1]
+   finish_times: [4]
+
+ - problem: 12
+   correct_answer: 1
+   alice: [1,1,1,3,2]
+   bob: [3,1,0,0,1]
+   start_times: [2]
+   finish_times: [4]
+
+ - problem: 13
+   correct_answer: 2
+   alice: [3,2,2,0,0]
+   bob: [3,3,2,0,1]
+   start_times: [0]
+   finish_times: [2]
+
+ - problem: 14
+   correct_answer: 2
+   alice: [0,2,1,2,3]
+   bob: [0,0,2,1,2]
+   start_times: [0]
+   finish_times: [2]
+
+ - problem: 15
+   correct_answer: 3
+   alice: [1,2,3,3,3]
+   bob: [2,3,1,0,1]
+   start_times: [0]
+   finish_times: [3]
+
+ - problem: 16
+   correct_answer: 0
+   alice: [1,0,0,0,2]
+   bob: [1,3,2,2,3]
+   start_times: [1]
+   finish_times: [3]
+
+ - problem: 17
+   correct_answer: 0
+   alice: [3,3,2,1,0]
+   bob: [1,1,1,1,3]
+   start_times: [0]
+   finish_times: [1]
+
+ - problem: 18
+   correct_answer: 2
+   alice: [3,0,1,3,2]
+   bob: [0,2,2,2,0]
+   start_times: [0]
+   finish_times: [4]
+
+ - problem: 19
+   correct_answer: 2
+   alice: [3,1,2,3,0]
+   bob: [1,1,3,1,2]
+   start_times: [0]
+   finish_times: [2]
+
+ - problem: 20
+   correct_answer: 1
+   alice: [0,3,0,3,2]
+   bob: [2,2,3,1,1]
+   start_times: [2]
+   finish_times: [4]
+
+ - problem: 21
+   correct_answer: 4
+   alice: [1,3,1,2,2,2]
+   bob: [0,1,2,3,2,0]
+   start_times: [0,0]
+   finish_times: [4,1]
+
+ - problem: 22
+   correct_answer: 2
+   alice: [0,3,0,0,3,0]
+   bob: [1,3,0,3,2,2]
+   start_times: [0,4]
+   finish_times: [5,5]
+
+ - problem: 23
+   correct_answer: 1
+   alice: [1,1,2,3,3,3]
+   bob: [3,2,0,0,2,3]
+   start_times: [2,3]
+   finish_times: [4,3]
+
+ - problem: 24
+   correct_answer: 1
+   alice: [2,2,1,0,0,0]
+   bob: [2,0,0,3,1,0]
+   start_times: [3,1]
+   finish_times: [5,1]
+
+ - problem: 25
+   correct_answer: 3
+   alice: [0,0,2,3,1,1]
+   bob: [3,2,3,3,1,1]
+   start_times: [3,3]
+   finish_times: [3,4]
+
+ - problem: 26
+   correct_answer: 1
+   alice: [1,3,1,3,1,2]
+   bob: [1,2,2,1,2,0]
+   start_times: [1,0]
+   finish_times: [2,2]
+
+ - problem: 27
+   correct_answer: 0
+   alice: [0,2,2,3,2,0]
+   bob: [1,0,0,0,1,3]
+   start_times: [3,1]
+   finish_times: [4,4]
+
+ - problem: 28
+   correct_answer: 4
+   alice: [1,1,2,1,2,3]
+   bob: [0,1,2,0,2,1]
+   start_times: [0,1]
+   finish_times: [5,4]
+
+ - problem: 29
+   correct_answer: 3
+   alice: [0,1,1,2,1,3]
+   bob: [3,0,2,0,3,2]
+   start_times: [0,4]
+   finish_times: [4,5]
+
+ - problem: 30
+   correct_answer: 5
+   alice: [2,2,3,0,1,1]
+   bob: [2,2,3,0,1,2]
+   start_times: [0,2]
+   finish_times: [3,3]
+
+ - problem: 31
+   correct_answer: 3
+   alice: [1,0,4,4,3,0]
+   bob: [1,4,3,2,4,1]
+   start_times: [3,2]
+   finish_times: [4,4]
+
+ - problem: 32
+   correct_answer: 2
+   alice: [4,4,2,2,3,1]
+   bob: [4,3,0,2,0,2]
+   start_times: [1,4]
+   finish_times: [5,4]
+
+ - problem: 33
+   correct_answer: 3
+   alice: [2,0,3,3,0,4]
+   bob: [3,1,2,0,3,3]
+   start_times: [1,0]
+   finish_times: [3,2]
+
+ - problem: 34
+   correct_answer: 2
+   alice: [1,2,1,3,1,0]
+   bob: [0,0,1,0,3,4]
+   start_times: [3,5]
+   finish_times: [5,5]
+
+ - problem: 35
+   correct_answer: 5
+   alice: [4,2,0,1,3,1]
+   bob: [2,0,4,3,1,0]
+   start_times: [2,2]
+   finish_times: [5,4]
+
+ - problem: 36
+   correct_answer: 1
+   alice: [2,3,0,2,4,4]
+   bob: [4,0,3,0,1,0]
+   start_times: [2,5]
+   finish_times: [3,5]
+
+ - problem: 37
+   correct_answer: 1
+   alice: [0,1,2,3,4,1]
+   bob: [3,0,2,0,4,2]
+   start_times: [2,5]
+   finish_times: [2,5]
+
+ - problem: 38
+   correct_answer: 0
+   alice: [2,3,4,3,4,3]
+   bob: [0,1,1,2,3,3]
+   start_times: [0,2]
+   finish_times: [1,3]
+
+ - problem: 39
+   correct_answer: 0
+   alice: [1,2,1,4,1,1]
+   bob: [3,0,0,0,3,4]
+   start_times: [0,2]
+   finish_times: [0,4]
+
+ - problem: 40
+   correct_answer: 1
+   alice: [2,0,4,4,2,3]
+   bob: [0,1,0,3,0,4]
+   start_times: [4,0]
+   finish_times: [5,4]
+
+ - problem: 41
+   correct_answer: 5
+   alice: [0,1,3,1,4,2,4]
+   bob: [0,4,3,1,3,2,4]
+   start_times: [0,2,0]
+   finish_times: [1,5,1]
+
+ - problem: 42
+   correct_answer: 2
+   alice: [1,4,4,0,3,4,1]
+   bob: [1,2,1,2,0,4,4]
+   start_times: [4,0,4]
+   finish_times: [4,3,5]
+
+ - problem: 43
+   correct_answer: 4
+   alice: [3,0,0,2,4,2,0]
+   bob: [1,3,2,2,0,0,4]
+   start_times: [3,4,3]
+   finish_times: [4,6,5]
+
+ - problem: 44
+   correct_answer: 3
+   alice: [2,1,3,0,2,2,0]
+   bob: [4,0,3,2,2,1,0]
+   start_times: [3,3,1]
+   finish_times: [3,3,4]
+
+ - problem: 45
+   correct_answer: 2
+   alice: [4,2,1,2,1,1,1]
+   bob: [2,0,3,0,2,4,2]
+   start_times: [3,2,2]
+   finish_times: [6,3,4]
+
+ - problem: 46
+   correct_answer: 5
+   alice: [4,2,4,0,4,1,4]
+   bob: [0,3,4,1,4,0,1]
+   start_times: [3,2,2]
+   finish_times: [4,6,4]
+
+ - problem: 47
+   correct_answer: 8
+   alice: [0,3,2,0,1,0,2]
+   bob: [1,0,2,2,1,0,0]
+   start_times: [1,3,2]
+   finish_times: [5,5,6]
+
+ - problem: 48
+   correct_answer: 2
+   alice: [0,4,1,2,4,2,1]
+   bob: [2,3,4,1,2,0,1]
+   start_times: [4,5,1]
+   finish_times: [5,6,1]
+
+ - problem: 49
+   correct_answer: 3
+   alice: [2,4,1,3,2,4,0]
+   bob: [2,0,2,4,4,3,1]
+   start_times: [3,4,1]
+   finish_times: [5,5,2]
+
+ - problem: 50
+   correct_answer: 4
+   alice: [3,3,1,4,1,3,4]
+   bob: [3,3,2,1,1,4,3]
+   start_times: [6,5,2]
+   finish_times: [6,6,5]
+
+ - problem: 51
+   correct_answer: 6
+   alice: [4,1,4,4,0,3,2]
+   bob: [4,1,3,4,2,3,4]
+   start_times: [0,0,3]
+   finish_times: [3,2,5]
+
+ - problem: 52
+   correct_answer: 1
+   alice: [2,3,2,1,2,2,1]
+   bob: [2,4,0,0,3,0,4]
+   start_times: [4,1,6]
+   finish_times: [4,5,6]
+
+ - problem: 53
+   correct_answer: 5
+   alice: [3,2,1,4,0,4,2]
+   bob: [3,4,2,3,3,3,4]
+   start_times: [0,6,2]
+   finish_times: [6,6,6]
+
+ - problem: 54
+   correct_answer: 7
+   alice: [2,4,3,2,0,4,2]
+   bob: [3,2,2,1,1,4,3]
+   start_times: [0,0,0]
+   finish_times: [6,1,5]
+
+ - problem: 55
+   correct_answer: 6
+   alice: [4,4,0,4,3,4,2]
+   bob: [2,0,0,3,4,2,1]
+   start_times: [2,3,3]
+   finish_times: [3,6,4]
+
+ - problem: 56
+   correct_answer: 1
+   alice: [3,3,0,2,0,0,0]
+   bob: [3,3,0,3,3,4,1]
+   start_times: [3,5,2]
+   finish_times: [4,6,4]
+
+ - problem: 57
+   correct_answer: 3
+   alice: [1,0,2,1,4,1,2]
+   bob: [4,0,3,0,3,4,2]
+   start_times: [1,0,3]
+   finish_times: [3,5,4]
+
+ - problem: 58
+   correct_answer: 3
+   alice: [1,1,1,0,4,3,1]
+   bob: [3,2,1,2,3,2,3]
+   start_times: [2,4,1]
+   finish_times: [5,6,1]
+
+ - problem: 59
+   correct_answer: 4
+   alice: [3,3,2,1,4,3,0]
+   bob: [2,4,4,3,0,4,3]
+   start_times: [0,1,1]
+   finish_times: [5,2,3]
+
+ - problem: 60
+   correct_answer: 4
+   alice: [2,4,0,3,4,0,0]
+   bob: [3,1,4,0,2,3,3]
+   start_times: [4,4,0]
+   finish_times: [5,5,4]
+
+ - problem: 61
+   correct_answer: 3
+   alice: [5,2,5,2,2,5,1,5]
+   bob: [4,1,1,1,1,1,0,1]
+   start_times: [4,0,0,0]
+   finish_times: [7,7,7,3]
+
+ - problem: 62
+   correct_answer: 6
+   alice: [2,0,2,3,4,2,3,5]
+   bob: [0,4,2,5,5,4,3,1]
+   start_times: [5,1,1,2]
+   finish_times: [5,4,4,5]
+
+ - problem: 63
+   correct_answer: 1
+   alice: [5,4,0,0,2,5,2,2]
+   bob: [2,0,0,3,4,1,4,0]
+   start_times: [5,6,1,4]
+   finish_times: [7,7,3,4]
+
+ - problem: 64
+   correct_answer: 6
+   alice: [1,1,5,1,1,0,2,5]
+   bob: [4,2,0,1,0,5,5,5]
+   start_times: [6,6,4,0]
+   finish_times: [7,7,4,7]
+
+ - problem: 65
+   correct_answer: 3
+   alice: [4,0,0,0,2,5,0,4]
+   bob: [1,2,3,0,2,4,0,0]
+   start_times: [1,6,0,0]
+   finish_times: [3,6,2,3]
+
+ - problem: 66
+   correct_answer: 5
+   alice: [5,3,5,1,0,0,3,3]
+   bob: [0,1,4,1,0,2,4,0]
+   start_times: [0,0,3,5]
+   finish_times: [4,1,6,7]
+
+ - problem: 67
+   correct_answer: 6
+   alice: [1,5,3,2,5,3,2,2]
+   bob: [2,3,2,0,2,4,4,2]
+   start_times: [0,3,1,3]
+   finish_times: [7,6,6,7]
+
+ - problem: 68
+   correct_answer: 4
+   alice: [4,5,2,0,4,1,4,0]
+   bob: [2,3,4,5,4,0,2,5]
+   start_times: [2,5,1,3]
+   finish_times: [4,6,4,4]
+
+ - problem: 69
+   correct_answer: 4
+   alice: [4,1,4,5,0,0,4,0]
+   bob: [5,0,3,5,1,5,0,0]
+   start_times: [2,0,2,4]
+   finish_times: [4,0,6,7]
+
+ - problem: 70
+   correct_answer: 5
+   alice: [0,2,4,1,3,3,1,0]
+   bob: [3,4,2,1,3,4,0,5]
+   start_times: [1,5,5,5]
+   finish_times: [6,7,6,6]
+
+ - problem: 71
+   correct_answer: 10
+   alice: [0,0,4,1,4,5,5,3]
+   bob: [2,1,3,1,1,5,0,4]
+   start_times: [2,0,1,2]
+   finish_times: [3,7,1,7]
+
+ - problem: 72
+   correct_answer: 8
+   alice: [1,0,1,4,0,2,3,4]
+   bob: [5,5,1,4,0,5,0,4]
+   start_times: [4,2,4,1]
+   finish_times: [6,3,7,5]
+
+ - problem: 73
+   correct_answer: 6
+   alice: [4,1,5,4,5,5,2,4]
+   bob: [2,5,1,3,5,2,5,5]
+   start_times: [5,1,1,2]
+   finish_times: [7,1,3,7]
+
+ - problem: 74
+   correct_answer: 9
+   alice: [5,1,3,4,0,2,1,1]
+   bob: [0,3,0,5,2,5,4,4]
+   start_times: [4,0,0,6]
+   finish_times: [6,7,4,6]
+
+ - problem: 75
+   correct_answer: 8
+   alice: [5,3,1,4,5,3,1,5]
+   bob: [5,5,4,5,1,5,3,0]
+   start_times: [2,1,0,6]
+   finish_times: [6,3,4,7]
+
+ - problem: 76
+   correct_answer: 1
+   alice: [5,5,1,5,5,2,1,3]
+   bob: [1,3,2,4,1,3,4,1]
+   start_times: [3,5,0,5]
+   finish_times: [4,6,4,6]
+
+ - problem: 77
+   correct_answer: 3
+   alice: [3,1,5,5,3,2,4,2]
+   bob: [3,3,0,3,2,0,3,2]
+   start_times: [0,5,2,2]
+   finish_times: [0,5,6,3]
+
+ - problem: 78
+   correct_answer: 9
+   alice: [5,5,1,2,3,2,5,1]
+   bob: [2,5,3,1,5,2,1,2]
+   start_times: [1,4,0,5]
+   finish_times: [4,6,3,6]
+
+ - problem: 79
+   correct_answer: 8
+   alice: [1,5,0,1,4,4,0,5]
+   bob: [0,5,0,3,1,3,0,1]
+   start_times: [2,1,7,0]
+   finish_times: [5,4,7,7]
+
+ - problem: 80
+   correct_answer: 3
+   alice: [2,2,0,5,4,2,0,3]
+   bob: [1,4,3,1,0,0,2,0]
+   start_times: [6,5,5,2]
+   finish_times: [6,7,5,5]
+
+ - problem: 81
+   correct_answer: 7
+   alice: [1,0,0,2,5,2,3,2,3]
+   bob: [2,3,0,3,3,5,0,2,3]
+   start_times: [2,5,2,7,4]
+   finish_times: [5,6,2,8,6]
+
+ - problem: 82
+   correct_answer: 12
+   alice: [1,1,4,2,1,1,0,4,3]
+   bob: [1,2,5,4,5,4,0,1,4]
+   start_times: [1,4,0,2,3]
+   finish_times: [7,8,8,4,5]
+
+ - problem: 83
+   correct_answer: 14
+   alice: [1,3,4,5,2,3,2,1,5]
+   bob: [3,2,0,5,1,3,3,2,1]
+   start_times: [4,2,0,2,4]
+   finish_times: [7,8,4,2,8]
+
+ - problem: 84
+   correct_answer: 9
+   alice: [1,1,1,0,4,1,2,3,2]
+   bob: [4,4,0,0,1,5,4,0,2]
+   start_times: [4,4,0,1,7]
+   finish_times: [5,6,5,7,7]
+
+ - problem: 85
+   correct_answer: 10
+   alice: [4,2,0,0,5,2,3,5,2]
+   bob: [0,2,4,4,1,0,5,4,4]
+   start_times: [0,2,1,0,5]
+   finish_times: [4,3,7,8,6]
+
+ - problem: 86
+   correct_answer: 9
+   alice: [0,4,5,1,2,3,0,0,5]
+   bob: [5,3,5,2,3,3,2,4,0]
+   start_times: [5,3,3,6,4]
+   finish_times: [8,8,7,6,7]
+
+ - problem: 87
+   correct_answer: 6
+   alice: [4,1,3,4,5,5,2,0,0]
+   bob: [2,1,1,5,1,5,5,5,5]
+   start_times: [1,0,0,4,2]
+   finish_times: [8,3,3,7,8]
+
+ - problem: 88
+   correct_answer: 5
+   alice: [5,4,2,1,4,4,1,0,0]
+   bob: [1,4,0,0,0,2,5,3,0]
+   start_times: [5,1,1,2,0]
+   finish_times: [5,1,3,6,3]
+
+ - problem: 89
+   correct_answer: 14
+   alice: [0,5,5,1,5,3,5,3,1]
+   bob: [3,0,1,1,5,0,4,1,3]
+   start_times: [4,3,4,0,3]
+   finish_times: [8,8,6,6,8]
+
+ - problem: 90
+   correct_answer: 9
+   alice: [5,4,2,0,4,5,5,3,1]
+   bob: [4,4,2,4,3,2,5,3,5]
+   start_times: [0,8,1,7,0]
+   finish_times: [3,8,5,8,7]
+
+ - problem: 91
+   correct_answer: 6
+   alice: [6,1,3,1,6,1,0,3,5]
+   bob: [3,1,0,2,1,4,4,2,2]
+   start_times: [0,1,1,3,6]
+   finish_times: [6,4,3,7,7]
+
+ - problem: 92
+   correct_answer: 16
+   alice: [4,1,2,6,4,3,6,0,2]
+   bob: [4,5,0,6,2,4,1,5,2]
+   start_times: [0,1,4,2,1]
+   finish_times: [3,8,7,7,6]
+
+ - problem: 93
+   correct_answer: 6
+   alice: [1,0,0,6,3,3,1,3,6]
+   bob: [3,1,2,5,5,2,0,6,3]
+   start_times: [1,0,0,6,5]
+   finish_times: [6,2,2,8,6]
+
+ - problem: 94
+   correct_answer: 12
+   alice: [0,0,5,6,0,4,2,1,2]
+   bob: [3,0,6,4,6,5,0,4,4]
+   start_times: [4,4,0,2,3]
+   finish_times: [4,6,5,6,7]
+
+ - problem: 95
+   correct_answer: 7
+   alice: [2,3,6,3,0,0,6,1,2]
+   bob: [1,3,5,1,2,3,4,2,2]
+   start_times: [1,1,1,7,5]
+   finish_times: [8,4,7,8,7]
+
+ - problem: 96
+   correct_answer: 14
+   alice: [2,2,4,5,2,1,4,4,4]
+   bob: [1,6,4,5,3,1,2,2,0]
+   start_times: [3,2,4,0,0]
+   finish_times: [7,5,7,3,8]
+
+ - problem: 97
+   correct_answer: 1
+   alice: [0,6,6,4,5,4,1,1,2]
+   bob: [1,2,3,2,3,1,6,2,2]
+   start_times: [1,4,0,1,1]
+   finish_times: [5,6,4,5,5]
+
+ - problem: 98
+   correct_answer: 10
+   alice: [3,3,6,2,1,2,4,0,2]
+   bob: [2,2,4,3,3,5,2,3,4]
+   start_times: [1,1,0,0,0]
+   finish_times: [8,4,7,0,4]
+
+ - problem: 99
+   correct_answer: 4
+   alice: [5,5,3,5,3,2,4,5,3]
+   bob: [2,6,1,5,5,5,5,1,2]
+   start_times: [3,2,6,5,1]
+   finish_times: [7,4,7,6,6]
+
+ - problem: 100
+   correct_answer: 5
+   alice: [1,4,1,3,5,5,1,0,3]
+   bob: [4,4,0,4,0,0,4,5,2]
+   start_times: [3,7,1,1,0]
+   finish_times: [6,8,4,2,7]
