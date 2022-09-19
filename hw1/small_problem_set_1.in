@@ -1,0 +1,607 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 1
+problems: 100
+
+data:
+
+ - problem: 1
+   correct_answer: 4
+   encryptedName: [1804289383,12,25,27,5,21,6,14,2,11,5,10,16,1,26,18,3,10,20,14,24,4,12,11,15,20]
+   n: 5
+   restaurantList: "china cafe;halsted bowl;hebron kebobs;inspiration corporation;kylin;lots of love nfp;pollos don neny;queen of all saints;the melting pot;wolfgang puck express;"
+
+ - problem: 2
+   correct_answer: 2
+   encryptedName: [846930886,20,21,15,7,13,13,7,18,17,18,0,12,27,21,15,24,4,15,27,15,15,10,26,3,3]
+   n: 5
+   restaurantList: "bang bang;convenient etc;great beginning daycare;paleteria los magos;restaurant puebla;southern pitch food truck;sugar factory;trinity pub chicago;urban counter;yale;"
+
+ - problem: 3
+   correct_answer: 1
+   encryptedName: [1681692777,2,10,27,2,20,21,0,18,5,5,10,16,15,19,0,4,26,13,13,16,13,14,1,24,3]
+   n: 5
+   restaurantList: "aya pastry;bombon cafe;kentucky fried chicken;lake front citgo;mama made my lunch;paleteria la unika;pint;pista house haleem;the local;uncommon ground;"
+
+ - problem: 4
+   correct_answer: 1
+   encryptedName: [1714636915,5,23,4,2,15,2,11,15,2,24,7,0,17,7,18,4,22,16,19,21,11,6,23,11,6]
+   n: 5
+   restaurantList: "abu daoud;adriana coffee shop;chocolate city;fitlife nutricion;hunan wok;imax chicago theatre;my little rome;pancake cafe;talcott;three chefs resturant;"
+
+ - problem: 5
+   correct_answer: 4
+   encryptedName: [1957747793,11,25,10,12,10,1,7,2,10,22,9,23,19,16,13,14,1,8,18,9,23,9,4,5,23]
+   n: 5
+   restaurantList: "ginas cuisine ii;guilty pleasurez;j and j fish and chicken;la casita tamales;magnolia cafe;original alps;skyway lanes;tamales sofias llc;the happy lobster;the hat;"
+
+ - problem: 6
+   correct_answer: 4
+   encryptedName: [424238335,16,13,9,2,25,8,24,5,15,6,0,9,13,15,17,13,26,25,1,2,16,13,17,3,3]
+   n: 5
+   restaurantList: "bangkok thai cuisine;beasley;modern asian kitchen;ombudsman;pinstripes;sala bua thai cuisine;snap kitchen;supermercado los cuates;the hana center;toast;"
+
+ - problem: 7
+   correct_answer: 2
+   encryptedName: [719885386,19,7,15,21,12,18,26,19,16,1,25,22,22,21,26,1,15,18,20,25,7,4,21,9,3]
+   n: 5
+   restaurantList: "bar ramone;eat fit;fat pour;grissom;hudson;misericordia bakery;morgan park foods;panaderia los gallos;sabor saveur;tasssili;"
+
+ - problem: 8
+   correct_answer: 3
+   encryptedName: [1649760492,13,6,16,12,16,11,1,10,23,0,13,8,19,25,5,14,25,11,21,0,14,7,19,1,4]
+   n: 5
+   restaurantList: "empirical brewery;foundations college prep;galway arms;knight house;potbelly sandwich works;sarku japan;southport city saloon;super mercado el guerro;sweetwater;torteria las futboleras;"
+
+ - problem: 9
+   correct_answer: 3
+   encryptedName: [596516649,1,0,11,12,17,21,16,0,7,18,13,27,11,27,22,4,12,4,6,11,6,4,7,11,10]
+   n: 5
+   restaurantList: "agami japanese restaurant;andersen;bucktown beanery;cassava;chez;fairfield inn;fast and fresh;pot pan restaurant;red mango;the green olive;"
+
+ - problem: 10
+   correct_answer: 2
+   encryptedName: [1189641421,22,8,26,3,25,21,22,11,26,0,18,22,26,27,11,27,2,11,9,10,25,11,2,20,2]
+   n: 5
+   restaurantList: "amaru;kay sang;los amantes;lours bakery cafe;p s bangkok restaurant ii;swirl wine bar;takito street;the wine huntress;umami burger;valaji lobby shop;"
+
+ - problem: 11
+   correct_answer: 4
+   encryptedName: [1025202362,13,17,6,24,12,11,24,0,18,24,12,24,20,13,12,4,24,20,25,15,2,13,16,11,24]
+   n: 10
+   restaurantList: "ajawaah sweets;birrieria don luis;chop suey king;elegance;johnnies snack shop;las manas tamales;maillard tavern;mc donalds restaurant;pepe taco;vinci;"
+
+ - problem: 12
+   correct_answer: 4
+   encryptedName: [1350490027,26,6,14,16,21,1,23,18,12,2,7,8,6,6,22,14,3,3,23,19,22,1,13,19,2]
+   n: 20
+   restaurantList: "concordia avondale campus;dragonfly mandarin;east room;easy bar;la mom kitchen;las islas marias;pizzeria las brasas;seafood garden;shraddha wine and spirit;super mercado al raza;"
+
+ - problem: 13
+   correct_answer: 19
+   encryptedName: [783368690,26,11,0,5,14,22,12,21,12,17,21,17,25,3,13,8,5,15,27,26,25,19,4,0,2]
+   n: 30
+   restaurantList: "cafe il cortile;coalfire;el cantante;jibaritos on harlem;qdoba;sabe a zulia;the learning tree ii;the penthouse hyde park;tierra mexicana;zak food;"
+
+ - problem: 14
+   correct_answer: 21
+   encryptedName: [1102520059,23,22,13,9,16,4,7,3,3,25,11,10,15,18,7,27,9,25,15,3,18,20,12,10,13]
+   n: 40
+   restaurantList: "chalkboard;downstate donuts llc;gruppo di amici;itacate;john schaller;lm le restaurant;rosario castellanos;the anthem;the green olive;vines on clark;"
+
+ - problem: 15
+   correct_answer: 47
+   encryptedName: [2044897763,13,16,16,24,19,12,24,23,7,21,19,5,24,24,7,22,24,27,1,5,14,2,19,2,1]
+   n: 50
+   restaurantList: "cafe jumping bean;docs;el taco feliz taqueria;erie fresh;herbalife;one city tap;province;san chae restaurant;troquet;xuan tea;"
+
+ - problem: 16
+   correct_answer: 47
+   encryptedName: [1967513926,26,15,10,13,27,15,3,7,6,13,27,18,22,27,16,0,7,12,25,11,24,7,22,15,4]
+   n: 60
+   restaurantList: "calihan catering;cassell;china night cafe;latin fuego;magic cell;moccozy;pochos;roosevelt discount;shrimpmax on clark street;the bureau bar;"
+
+ - problem: 17
+   correct_answer: 68
+   encryptedName: [1365180540,5,7,10,18,9,5,16,19,14,24,24,20,0,25,18,13,16,6,8,21,15,7,24,4,6]
+   n: 70
+   restaurantList: "a plate on southport;bridgeport cofee;cafe huong;cupitol;hot wok;perkolator;revolver;sopo;the family house;zorbas pastry shop;"
+
+ - problem: 18
+   correct_answer: 28
+   encryptedName: [1540383426,4,9,25,10,26,8,14,14,21,8,18,19,12,8,16,19,26,7,24,9,19,12,2,22,22]
+   n: 80
+   restaurantList: "axis chicago;cafe san juan;el taconzazo;el eden saludable;el sabroso;mikeys discount dollar;my precious little angels;olympic club;paleteria arcos iris;punjabi dhabha;"
+
+ - problem: 19
+   correct_answer: 58
+   encryptedName: [304089172,25,6,12,14,27,10,10,1,12,19,24,17,19,11,27,10,13,1,6,17,3,3,4,21,15]
+   n: 90
+   restaurantList: "carmines;chimney cake island;city dough;el jardin restaurant;gale street inn;green tomato cafe;itacate;jodabaris;kin japanese cuisine;the sandwich break;"
+
+ - problem: 20
+   correct_answer: 67
+   encryptedName: [1303455736,27,26,21,22,11,9,21,17,16,2,19,2,6,24,26,19,23,24,24,0,3,1,7,18,18]
+   n: 100
+   restaurantList: "ashland kitchen;bombay wraps;crawfords;el famous restaurant;la chilangueda;m g bien estar;mustafa;poppin popcorn;progressbar;taylor gourmet;"
+
+ - problem: 21
+   correct_answer: 29
+   encryptedName: [35005211,9,18,27,6,18,22,4,1,15,8,8,6,8,11,14,14,13,20,13,12,24,25,23,22,12]
+   n: 110
+   restaurantList: "arbys;francisco espinoza;future focus day care;jenner academy;kinzie hotel;sleep walk;stowe;tuk of chicago;whisk chicago;white;"
+
+ - problem: 22
+   correct_answer: 104
+   encryptedName: [521595368,9,25,16,17,3,14,11,24,21,15,2,22,4,4,7,23,16,10,20,25,26,14,10,16,18]
+   n: 120
+   restaurantList: "brownell;crio;lalos mexican restaurant;matilda;mazamitla taqueria;ruxbin kitchen;small world inn;the rink;towbar;zea salon;"
+
+ - problem: 23
+   correct_answer: 63
+   encryptedName: [294702567,11,3,10,24,9,20,2,0,21,27,10,24,4,16,21,6,2,21,1,19,14,13,1,17,18]
+   n: 130
+   restaurantList: "ace place;advocate trinity hospital;el jefe;fat sandwich;gamekeepers;lone wolf;rise up nutrition;rogers park social;ruth kaplan;taco fuego;"
+
+ - problem: 24
+   correct_answer: 13
+   encryptedName: [1726956429,5,9,4,27,5,16,15,9,5,6,13,18,7,24,17,2,23,2,5,21,1,6,14,17,13]
+   n: 140
+   restaurantList: "briar pantry;brunch;cocina de galarza;doughnut vault;haisous;harold washington college;standard restaurant;the drinking bird;the food boutique;the kennison;"
+
+ - problem: 25
+   correct_answer: 84
+   encryptedName: [336465782,6,15,15,27,25,18,1,26,13,11,14,15,18,21,2,16,16,2,14,8,6,18,6,22,0]
+   n: 150
+   restaurantList: "couscous house;devon sheridan apartments;la mejikana;pee wees;sleep walk;south coast;sputnik coffee company;t tasty house;taco fiesta grill;the bristol;"
+
+ - problem: 26
+   correct_answer: 82
+   encryptedName: [861021530,8,24,13,26,27,18,25,6,15,7,8,5,9,7,3,1,23,2,20,19,21,0,24,1,21]
+   n: 160
+   restaurantList: "a team services;cafe rom;ciao pizza;freshberry;riva;river roast;so bowl;streeters tavern;three peas art lounge;touba caribbean connexon;"
+
+ - problem: 27
+   correct_answer: 74
+   encryptedName: [278722862,22,16,8,12,2,24,5,7,27,9,25,8,11,15,24,1,0,20,22,7,17,19,6,2,18]
+   n: 170
+   restaurantList: "china palace;empirical brewery;haifa cafe;healthy and simple juices;mi palmar;otto mezzo;reve burger;sterling bay;super carniceria el pollo;wildwood;"
+
+ - problem: 28
+   correct_answer: 129
+   encryptedName: [233665123,7,13,12,21,16,14,18,12,21,9,1,11,20,14,9,4,1,5,14,6,4,14,0,25,3]
+   n: 180
+   restaurantList: "bonsoiree;brobagel;caseras sabor real;chayhana;holistic trading group;junior ice cream;polaris charter academy;rickshaw republic;somerset place llc;whale tale;"
+
+ - problem: 29
+   correct_answer: 134
+   encryptedName: [2145174067,17,5,1,27,9,12,19,13,27,16,22,12,2,9,23,11,0,4,21,14,16,9,15,12,5]
+   n: 190
+   restaurantList: "goose island;grill n griddle;higgins tavern;hopewell brewing company;open pantry;rocks northcenter;supermercado mi lupita;the cafe at leflour;the stretch bar and grill;valaji lobby shop;"
+
+ - problem: 30
+   correct_answer: 107
+   encryptedName: [468703135,21,19,17,14,3,25,15,18,14,20,6,11,13,18,6,17,15,18,21,27,14,0,21,18,10]
+   n: 200
+   restaurantList: "antojitos durango;au cheval;kimberly sushi;la cazuela restaurant;maria euginia huerta;omakin restaurant;paleteria reyna del sur;royal deli;sky lake chinese kitchen;uno brighton park campus;"
+
+ - problem: 31
+   correct_answer: 144
+   encryptedName: [1101513929,0,10,7,20,10,23,0,2,16,18,19,6,25,5,21,7,3,18,10,5,13,20,19,7,11]
+   n: 210
+   restaurantList: "bistro campagne;bucktown academy;estrada;la catrina;moe;moti cafe;save a lot;tacos los gueros;the arts club of chicago;the green house stakes;"
+
+ - problem: 32
+   correct_answer: 154
+   encryptedName: [1801979802,17,14,0,17,19,23,11,14,21,15,23,9,2,8,17,1,4,19,20,6,17,13,5,10,23]
+   n: 220
+   restaurantList: "carrascos grill;el batey cafe y mas;famosa bakery;flying chicken;grota restaurant;le pain quotidien;lovett;rise up early childhood;vinis of lincoln park;xtra health;"
+
+ - problem: 33
+   correct_answer: 124
+   encryptedName: [1315634022,0,23,26,17,9,15,11,5,2,1,14,7,23,24,8,5,13,22,12,12,3,16,15,2,16]
+   n: 230
+   restaurantList: "amazcakes;ch distillery;cocina fusion;damen foods;family bargains;international news;lai lai restaurant;luv n care;mississippi soul food;river city convenience;"
+
+ - problem: 34
+   correct_answer: 141
+   encryptedName: [635723058,2,12,17,9,15,26,25,15,2,14,4,17,0,23,11,19,8,0,9,2,11,7,6,13,9]
+   n: 240
+   restaurantList: "crofton on wells;dicola seafood;dollar union;eriks deli;kung fu pizza bar;maxwell grill;morgan food corp llc;rewired cafe;the tavern;u rice;"
+
+ - problem: 35
+   correct_answer: 151
+   encryptedName: [1369133069,22,14,26,24,22,23,23,27,15,24,4,10,8,15,6,23,5,27,14,15,14,14,2,3,21]
+   n: 250
+   restaurantList: "cannons jerk;curio cafe;devil dawgs;falafill;galapagos cafe;los vasos lokos corp;ora casual dining;panaderia azucar;pasteur;vienna sausage;"
+
+ - problem: 36
+   correct_answer: 95
+   encryptedName: [1125898167,21,5,15,20,18,11,7,8,15,14,17,5,17,15,26,15,15,7,7,18,6,2,26,25,23]
+   n: 260
+   restaurantList: "abel brambla;carms snack shop;celis nutricion;cragin public coffee;flamingo cafe;goose island;grand terrace banquets;kiddy comfort zone;magnolia cafe;roanoke;"
+
+ - problem: 37
+   correct_answer: 192
+   encryptedName: [1059961393,5,18,10,13,25,5,3,23,19,19,18,19,12,24,4,26,24,11,6,7,25,11,16,13,11]
+   n: 270
+   restaurantList: "art of pizza on state;dak;el cangrejo;fedora lounge;i love tamales;kidz town;middle east grill;panaderia nuevo leon;soap opera;streeters tavern;"
+
+ - problem: 38
+   correct_answer: 219
+   encryptedName: [2089018456,14,1,21,10,19,14,2,27,15,3,24,5,12,26,21,5,3,24,13,1,12,16,21,9,4]
+   n: 280
+   restaurantList: "cloud cookie;dak;greenline food;hamburger heaven;la encantada restaurant;machu picchu;phlour bakery and cafe;talman;ted lenart;venice pizza;"
+
+ - problem: 39
+   correct_answer: 247
+   encryptedName: [628175011,23,21,12,3,14,8,2,14,16,14,12,9,14,10,9,1,9,10,24,1,6,14,0,19,7]
+   n: 290
+   restaurantList: "bulsho coffee shop;cafezazzo;captain morgan club;daniel william hale;el cantante;el valor corporation;fuji sushi buffet;hard rock cafe;kramers health foods;reyes tacos;"
+
+ - problem: 40
+   correct_answer: 281
+   encryptedName: [1656478042,9,20,27,20,5,24,0,3,11,10,0,6,9,1,21,24,4,10,7,19,18,25,15,13,5]
+   n: 300
+   restaurantList: "arista foods;decolores burrito joint;fat baby tacos;intro;la pena;oakley minimart;philly steaks;piko street kitchen;rice asian kitchen;the jackson grill;"
+
+ - problem: 41
+   correct_answer: 215
+   encryptedName: [1131176229,24,15,14,13,14,3,19,3,7,2,23,10,13,8,19,5,24,19,11,2,20,15,24,22,22]
+   n: 310
+   restaurantList: "al maimani food;albany child care center;by the hand club;crazy chickens;de mucho gusto taqueria;giavia sweets;lakeview taproom;pritzker;snarfs river north;spiteful brewing;"
+
+ - problem: 42
+   correct_answer: 309
+   encryptedName: [1653377373,0,3,7,11,11,2,5,22,14,23,20,8,15,12,6,6,1,9,14,10,11,22,14,24,14]
+   n: 320
+   restaurantList: "barbecue king restaurant;center for discovery;continental care center;kiddie treasure house;midtown kitchen;otto mezzo;saint joseph hospital;tortilla soup;tutto fresco;uruapan;"
+
+ - problem: 43
+   correct_answer: 104
+   encryptedName: [859484421,19,11,0,11,26,4,0,21,20,9,7,21,25,0,24,14,5,22,19,20,19,2,24,22,5]
+   n: 330
+   restaurantList: "caffe streets;club allegria;coco cooks;crystal korean restaurant;fat sandwich;jelly fish;milanos pizza;my place;pioneer gardens;the jerk shop;"
+
+ - problem: 44
+   correct_answer: 202
+   encryptedName: [1914544919,24,4,4,13,13,21,4,8,14,15,27,7,13,24,7,12,17,15,3,6,5,4,21,1,19]
+   n: 340
+   restaurantList: "bt wholesale company;carrion arco;coralie coffee;delightful pastries;henry clay columba branch;ladybug book cafe;langosta nayarita;morgan foods;som masha allah grill;wada;"
+
+ - problem: 45
+   correct_answer: 169
+   encryptedName: [608413784,12,9,6,2,6,1,23,24,27,10,3,9,5,26,24,9,22,27,5,23,6,5,24,17,16]
+   n: 350
+   restaurantList: "abou andre llc;bagelers coffeehouse;cafe latin bliss;delano cpc;kozminski;panda montessori academy;six o six the lounge;the night ministry;the tasting room;tower cafe;"
+
+ - problem: 46
+   correct_answer: 157
+   encryptedName: [756898537,27,25,4,2,15,21,27,0,8,26,7,20,0,16,16,26,23,26,18,24,16,15,4,12,15]
+   n: 360
+   restaurantList: "a b c headstart;casa de sol;catalina pizzeria;cermak food;cupcake gangster;little green oak;manierre;teagschwendner;the closet;wonderburger;"
+
+ - problem: 47
+   correct_answer: 152
+   encryptedName: [1734575198,21,10,17,25,3,10,25,20,16,26,23,26,0,23,4,15,2,15,3,2,8,11,13,9,3]
+   n: 370
+   restaurantList: "abbott park golden diner;albany child care center;danardos pizza;hermosa;hong sik in;jam;meet fresh;ridge country club;sabroso grill;vinis pizza;"
+
+ - problem: 48
+   correct_answer: 267
+   encryptedName: [1973594324,7,14,9,20,23,23,3,24,18,1,5,27,27,22,24,19,17,27,5,8,9,26,3,9,22]
+   n: 380
+   restaurantList: "catalyst ranch;facebook;hamline;kho bo chicago;lucky quick pick;midtown kitchen;proxi;taco taco on pulaski;tacos don memo;turners family dining;"
+
+ - problem: 49
+   correct_answer: 251
+   encryptedName: [149798315,14,20,9,5,13,14,5,9,8,0,17,13,26,5,2,27,10,23,26,13,8,3,11,9,7]
+   n: 390
+   restaurantList: "abc and me;artists cafe;catering by roxana;jack and gingers;la bamba;pizzeria deepo;poppies dough outlet;quesadilla monarca;rowe food holdings llc;toledo restaurant;"
+
+ - problem: 50
+   correct_answer: 390
+   encryptedName: [2038664370,12,0,12,0,10,13,8,12,9,9,6,22,23,8,19,11,24,15,25,23,27,19,4,1,16]
+   n: 400
+   restaurantList: "fruteria el mercado;guses food;i dream of falafel;jensen;johnny brown bag;las quince letras;salad works;skadden arps;the woodlawn;zee dollar and food;"
+
+ - problem: 51
+   correct_answer: 340
+   encryptedName: [1129566413,11,24,13,4,21,26,22,21,10,12,26,10,6,9,18,16,0,24,19,6,14,5,15,11,16]
+   n: 410
+   restaurantList: "city tavern of chicago;dog day afternoon;fine afghan cuisine;gaspachotes;gyros on the spit;hutch;le poulet;monteverde;sugar bliss cake boutique;toolus fast food;"
+
+ - problem: 52
+   correct_answer: 245
+   encryptedName: [184803526,5,18,2,6,12,24,24,5,16,8,9,8,2,23,24,6,5,3,13,12,7,24,11,24,14]
+   n: 420
+   restaurantList: "bagelers coffeehouse;cozy corner childcare;ema;hilarys cookies;international bakery;keystone tobacco corner;kingfisher restaurant;pleasant house bakery;publican anker;table;"
+
+ - problem: 53
+   correct_answer: 29
+   encryptedName: [412776091,9,11,18,15,2,5,2,5,16,10,17,2,19,17,23,18,27,16,7,27,24,12,24,12,10]
+   n: 430
+   restaurantList: "essence of india;fruit flowers;osteria langhe;quizhpi records;rhapsody;sabor de guerrero;sparta coffee shop;tango sur;tasty chinese food;tony stop and save;"
+
+ - problem: 54
+   correct_answer: 357
+   encryptedName: [1424268980,8,2,10,2,22,12,14,25,11,24,7,14,5,1,25,10,9,12,5,22,21,1,2,17,18]
+   n: 440
+   restaurantList: "friedman place;galata llc;leans nutrition club;platinum;red bowl;richard andrise;the ballroom;the cheesecake factory;veruca chocolates;viva nutrition club;"
+
+ - problem: 55
+   correct_answer: 47
+   encryptedName: [1911759956,9,17,1,22,13,11,10,13,20,9,21,27,3,20,8,9,22,17,14,27,16,21,9,13,19]
+   n: 450
+   restaurantList: "abhiruchi;brass heart;famosa bakery;gaelic imports;la quebradita;mars paradise;smoke filled room;sputnik coffee company;sunnyday tap;the hartwell;"
+
+ - problem: 56
+   correct_answer: 313
+   encryptedName: [749241873,25,8,23,22,24,12,21,21,25,27,14,21,2,17,2,10,12,16,26,0,16,6,0,23,6]
+   n: 460
+   restaurantList: "alibaba cafe;ameer kabob;century centre lounge;county bbq;debonair social club;eat fresh feel good;la international;mr philly steak;super mercado carreta;tocco;"
+
+ - problem: 57
+   correct_answer: 223
+   encryptedName: [137806862,1,9,0,13,23,22,11,12,13,4,19,1,16,24,16,27,10,7,1,3,24,12,24,11,9]
+   n: 470
+   restaurantList: "books a million;bounmy grill;first steps to success;go lo;jd foods llc;maicos tacos and bakery;smoque bbq;sugar mama;the river of chicago;wise owl daycare llc;"
+
+ - problem: 58
+   correct_answer: 141
+   encryptedName: [42999170,19,17,20,26,18,22,15,12,3,14,24,0,11,11,13,15,19,10,24,8,24,23,18,8,9]
+   n: 480
+   restaurantList: "burnham park yacht club;city olive;empirical brew pub;ghynaros grill;jackson park golf course;pizano;revolver;sandunga;super nick food;wintrust arena;"
+
+ - problem: 59
+   correct_answer: 413
+   encryptedName: [982906996,20,0,8,21,13,14,25,7,14,9,1,0,11,19,23,14,18,22,0,6,26,9,12,13,25]
+   n: 490
+   restaurantList: "bottled blonde;ccd kitchen;dippin dots at navy pier;diver;gallaghers;good food health center;himalayan sherpa kitchen;lots of love nfp;sweet discoveries llc;the works off van buren;"
+
+ - problem: 60
+   correct_answer: 144
+   encryptedName: [135497281,8,10,1,6,16,2,16,12,2,14,4,20,26,6,11,24,6,5,5,1,26,5,26,0,5]
+   n: 500
+   restaurantList: "asada;burger bar chicago;claudia by trevor teich;essence of india;five iron golf chicago;gaspachotes;pollo andino rosticeria;semillas restaurant;shoop;the hot dog guy;"
+
+ - problem: 61
+   correct_answer: 342
+   encryptedName: [511702305,24,3,18,15,13,25,22,6,6,4,6,26,6,16,20,12,25,15,13,19,27,21,5,4,1]
+   n: 510
+   restaurantList: "bar lupo;bonci;circuit;einsteins;golden wok corporation;harper mini food;saigon bistro;strickly ribiz;taco burrito on wabash;takito street;"
+
+ - problem: 62
+   correct_answer: 288
+   encryptedName: [2084420925,9,22,4,19,9,21,6,10,0,25,10,9,18,20,21,0,22,24,12,6,2,18,26,6,20]
+   n: 520
+   restaurantList: "alboes;antojitos dona maria;asahi roll;bernardo gonzalez;cafe colao;fresh casita;mellos carry outs;oui chef;stumptown coffee corp;the lazy parrot;"
+
+ - problem: 63
+   correct_answer: 415
+   encryptedName: [1937477084,21,25,4,9,20,11,0,23,20,24,19,23,7,11,10,16,11,3,14,14,11,12,20,21,15]
+   n: 530
+   restaurantList: "corner bakery cafe;el churrito;el gallo;energy fit;espresso and milk;gourmet gorilla;kidslife daycare center;perks;r b foodmart;saul mazon jr;"
+
+ - problem: 64
+   correct_answer: 435
+   encryptedName: [1827336327,19,19,24,18,7,8,0,23,20,0,24,7,22,4,15,21,4,23,18,26,10,15,25,8,22]
+   n: 540
+   restaurantList: "bella luna bar;crumbl cookies;del toro;fanfares catering;la cavana;las quecas;los altos;mixed green;seafood city;smoke daddy;"
+
+ - problem: 65
+   correct_answer: 519
+   encryptedName: [572660336,24,8,0,23,3,20,9,18,16,19,15,15,4,1,9,9,14,13,25,24,5,12,24,0,17]
+   n: 550
+   restaurantList: "bittersweet;boka;dona chela restaurant;el trompo;jackhammer;java coast;may mei kitchen;pueblito viejo;super nut chicago;the picnic basket;"
+
+ - problem: 66
+   correct_answer: 380
+   encryptedName: [1159126505,2,0,7,0,23,18,9,21,8,23,8,6,25,1,22,18,14,23,21,3,24,9,6,0,22]
+   n: 560
+   restaurantList: "cafe monsivais;deli king;galit;hong kong chef;jackie food;otis;restaurant el ranchito;rosebud prime;tai ho yee food co;u of c woodlawn;"
+
+ - problem: 67
+   correct_answer: 191
+   encryptedName: [805750846,10,25,20,12,19,12,0,5,0,22,22,7,27,15,0,21,9,22,13,14,4,7,17,26,13]
+   n: 570
+   restaurantList: "bark lee tong;chopin;coyote ugly saloon;cubby bear lounge ltd;kokopelli chicago;linkedin corporation;moonlight vulture;red carpet caterin;smokers den;the grail cafe;"
+
+ - problem: 68
+   correct_answer: 1
+   encryptedName: [1632621729,1,18,5,16,22,8,24,27,25,23,17,27,0,26,27,6,27,23,18,0,1,18,24,10,6]
+   n: 580
+   restaurantList: "abundant restaurant;bespoke cuisine;discount dollar plus;flirty girl fitness;kowloon;lara;los anafres restaurant;mr crab;phillips quick stop;wing stop;"
+
+ - problem: 69
+   correct_answer: 188
+   encryptedName: [1100661313,1,25,18,15,1,27,27,25,12,3,0,0,7,9,13,9,13,6,17,22,22,17,5,23,11]
+   n: 590
+   restaurantList: "busofat african cuisine;cafe touche;epiphany restaurant;frozen foodies;k i african restaurant;kan zaman restaurant;lao beijing restaurant;los altos;monterrey bakery;verzenay llc;"
+
+ - problem: 70
+   correct_answer: 285
+   encryptedName: [1433925857,22,25,26,7,23,18,8,13,26,11,3,11,15,14,20,15,18,8,14,17,5,15,22,25,23]
+   n: 600
+   restaurantList: "adrienne l blumthal;bopngrill;chitown sports facilities;gathers tea bar;just shrimp fc mall;katten muchin zavis;local food hall;mojo bar;popcorn entertainment;wabisabi;"
+
+ - problem: 71
+   correct_answer: 576
+   encryptedName: [1141616124,14,22,12,11,20,16,22,22,1,16,8,14,10,1,17,6,16,16,27,17,8,1,25,27,19]
+   n: 610
+   restaurantList: "baderbrau brewing company;chinese yan bian herbs;council oak montessori;el pozolito restaurant;fresh choice;halal peri peri chicken;music box theatre;pita xpress grill;restaurant dona ana;veronica ocelotl;"
+
+ - problem: 72
+   correct_answer: 270
+   encryptedName: [84353895,4,21,9,23,7,7,14,13,7,25,16,15,23,24,17,11,20,23,18,21,10,24,25,6,11]
+   n: 620
+   restaurantList: "brewer coffee and custard;el muelle;el payasito;epples restaurant;gepade caffe;moore house;pittsfield cafe;supermercado el barrio;yassa african restaurant;yummy;"
+
+ - problem: 73
+   correct_answer: 404
+   encryptedName: [939819582,14,5,14,17,20,22,22,23,0,13,13,10,2,17,19,1,26,14,12,26,9,24,20,16,17]
+   n: 630
+   restaurantList: "asiago express;canter middle;esmond;foiled cupcakes;half sour;hot diggity dogs;iraqi kabab house;mccormick place;pak sweets;pizza persona;"
+
+ - problem: 74
+   correct_answer: 8
+   encryptedName: [2001100545,19,15,16,8,21,16,14,23,2,21,1,4,7,12,19,2,17,6,5,19,21,17,10,10,16]
+   n: 640
+   restaurantList: "abc and me;borinken cakes;daguan noodle;david castaneda;el new chapala;hideout inn;red baron;rhapsody;savanna restaurant;tru;"
+
+ - problem: 75
+   correct_answer: 569
+   encryptedName: [1998898814,3,22,23,18,20,14,0,22,22,2,15,27,11,20,2,20,12,3,19,24,26,23,22,7,0]
+   n: 650
+   restaurantList: "catalpa cafe;daata darbar restaurent;dm news stand;george boys grill;gold standard baking;kouks vintage cafe;michoacana gold;san luis restaurant;the macaroon cafe;twisted lizard;"
+
+ - problem: 76
+   correct_answer: 531
+   encryptedName: [1548233367,22,11,27,5,15,23,7,3,19,12,12,6,26,13,22,9,20,9,8,21,6,10,10,26,12]
+   n: 660
+   restaurantList: "acadia restaurant;amy candy bar;bria of forest edge;catalina pizzeria;euro usa chicago;goddess and the baker;municipal foods;pops for champagne;savanna restaurant;sol chicago;"
+
+ - problem: 77
+   correct_answer: 303
+   encryptedName: [610515434,22,23,22,7,12,19,8,27,18,6,8,25,2,12,22,23,27,10,14,23,17,10,15,23,18]
+   n: 670
+   restaurantList: "flik international corp;friends sushi;il culaccino;morton career academy;munchies;schwa;soho house;tasty china;the grail cafe;tjam kitchen;"
+
+ - problem: 78
+   correct_answer: 150
+   encryptedName: [1585990364,13,6,5,9,0,22,10,14,19,14,15,19,4,14,9,25,2,5,14,16,23,20,1,3,11]
+   n: 680
+   restaurantList: "asian town noodles;barrio;el macho tacos;el progreso;go go fish and steak;granville fruits;guadalajara bakery;steep theatre company;taco burrito on wabash;the gallery;"
+
+ - problem: 79
+   correct_answer: 448
+   encryptedName: [1374344043,21,12,27,22,14,11,22,21,7,0,4,19,0,25,18,7,7,13,7,11,1,4,27,17,24]
+   n: 690
+   restaurantList: "artango center;barrelman tavern;bonchon;halsted food;hit the spot fast food;la dona y la jefa;limra food tobacco;recipe for change;the penthouse hyde park;vintage lounge;"
+
+ - problem: 80
+   correct_answer: 168
+   encryptedName: [760313750,13,26,20,19,5,19,13,11,1,24,4,18,5,21,16,17,13,18,14,6,26,6,11,22,1]
+   n: 700
+   restaurantList: "ameritalia;bar bari;early society llc;great beginning daycare;king poolo;landbirds;perman wine selection;redmoon theater;river city convenience;sopraffina;"
+
+ - problem: 81
+   correct_answer: 138
+   encryptedName: [1477171087,25,27,11,6,7,0,27,25,0,19,0,18,6,13,2,12,3,21,12,6,24,20,25,3,13]
+   n: 710
+   restaurantList: "belizean american jerk;carnitas el paisa;cics ralph ellison;clinton annex;dawn arkin;ezzard charles nursery;fedora lounge;kitchfix;the irish oak;the spirit of chicago;"
+
+ - problem: 82
+   correct_answer: 426
+   encryptedName: [356426808,22,8,9,5,12,16,9,22,8,20,11,11,1,7,11,20,12,21,10,22,13,7,19,23,21]
+   n: 720
+   restaurantList: "econogas;el pescador restaurant;elenis cafe;etta;hegewisch train station;la ruta;lowcountry;mahalo;square one lounge;tutto italiano;"
+
+ - problem: 83
+   correct_answer: 474
+   encryptedName: [945117276,3,21,5,2,19,1,5,6,12,2,9,12,26,19,19,4,21,26,1,12,11,20,21,8,1]
+   n: 730
+   restaurantList: "a beautiful rind;alonti catering;cannons jerk;greenview place;khyber pass;knockbox cafe;residence inn;spilt milk;taquitos;tropical shakes;"
+
+ - problem: 84
+   correct_answer: 443
+   encryptedName: [1889947178,3,0,23,16,22,2,8,14,21,11,19,19,14,21,2,1,18,19,8,9,16,15,17,26,22]
+   n: 740
+   restaurantList: "arturo express;central pickling;el cantante;el rebozo;familia foods;j bar lounge;liido grill;minigrow by honeygrow;the little scholars club;top choice bbq restaurant;"
+
+ - problem: 85
+   correct_answer: 507
+   encryptedName: [1780695788,9,24,24,6,3,8,0,19,21,17,15,15,8,25,7,17,27,12,16,4,17,2,18,8,16]
+   n: 750
+   restaurantList: "basehit bbq;dollar daze;dreamers academy llc;el sur foods;jalisco restaurant;moses butcher shop;pueblito viejo;rhema reveal;sip coffee house;volcano sushi restaurant;"
+
+ - problem: 86
+   correct_answer: 459
+   encryptedName: [709393584,10,24,16,7,9,7,26,12,20,23,11,24,21,21,0,25,22,11,24,14,27,16,7,6,13]
+   n: 760
+   restaurantList: "betty boo snack shop;curried;daily grind;ding feng noodle;estar bien;la caridad en;moy lee restaurant;pork chop;seni catering;two way diner;"
+
+ - problem: 87
+   correct_answer: 374
+   encryptedName: [491705403,12,25,17,21,18,5,26,13,11,6,22,10,6,9,9,21,7,18,3,2,6,6,18,27,16]
+   n: 770
+   restaurantList: "basehit bbq;brownell;eat and run nfp;family den;fft cafe;la provence;metropolis rotisseria;paleteria juarez;symphony of south shore;waldorf astoria chicago;"
+
+ - problem: 88
+   correct_answer: 774
+   encryptedName: [1918502651,13,4,27,10,19,17,17,21,10,6,26,24,17,10,4,22,20,22,2,8,12,26,26,11,26]
+   n: 780
+   restaurantList: "armitage food;beyond the ivy;dona chela restaurant;epiphany restaurant;gate gourmet;golo;gourmet cortez restaurant;hoagy house;rostis pizza;tortello;"
+
+ - problem: 89
+   correct_answer: 391
+   encryptedName: [752392754,8,5,1,18,19,4,19,25,10,12,18,27,6,1,12,14,1,8,25,3,22,11,11,6,18]
+   n: 790
+   restaurantList: "arch view restaurant;compass group;cravin chicago wings;davanti enoteca chicago;du jour cafe;gorditas salazar;hot bunz;hotdog land xpress;kitchenette corporation;rollapalooza;"
+
+ - problem: 90
+   correct_answer: 452
+   encryptedName: [1474612399,22,8,25,6,5,11,26,0,12,7,23,14,5,0,15,16,3,16,13,24,24,3,22,0,15]
+   n: 800
+   restaurantList: "asado coffee roasters;city suites hotel;cochan volant;el pollo regio;minghin cuisine;tbaar;the dessert kart;the falcon;uno soccer academy;wing hoe restaurant;"
+
+ - problem: 91
+   correct_answer: 524
+   encryptedName: [2053999932,24,14,7,0,12,22,18,12,25,16,5,10,10,24,15,12,1,2,9,25,2,10,24,6,16]
+   n: 810
+   restaurantList: "bice ristorante;cafe bionda;dollar castle;el consulado taqueria;el restaurante tinajon;hunan wok;just jerk cafe;slb hot food service;sodexo;tai cho cafe;"
+
+ - problem: 92
+   correct_answer: 721
+   encryptedName: [1264095060,23,24,5,11,16,9,19,25,5,18,11,16,15,17,14,23,8,24,27,27,10,6,0,22,7]
+   n: 820
+   restaurantList: "carnitas don pichi;carribean cove restaurant;curry on fire;el tequilas;flash taco southshore;happy dollar;kamal chebli;rosatis pizza;salvation army;the satellite cafe;"
+
+ - problem: 93
+   correct_answer: 791
+   encryptedName: [1411549676,20,24,0,26,20,0,6,21,16,9,21,0,16,7,6,1,5,3,9,2,8,10,3,16,1]
+   n: 830
+   restaurantList: "atx bodega;bernardo gonzalez;culinary club corporation;hoosier mama pie company;hot dog station;la humita;la perla tapatia;my thai;sofra turkish kitchen;sutherland;"
+
+ - problem: 94
+   correct_answer: 520
+   encryptedName: [1843993368,24,3,27,5,17,16,4,18,15,27,18,15,25,3,1,5,13,4,21,7,3,24,2,9,19]
+   n: 840
+   restaurantList: "deneen;fairway food;fannie may;goldblatt;la cocinera distributors;sheffield baseball club;shiawase;the temple bar;umami asian fusion;zorbas pastry shop;"
+
+ - problem: 95
+   correct_answer: 559
+   encryptedName: [943947739,22,8,1,24,25,16,23,7,10,24,23,25,3,24,20,12,17,12,0,11,14,5,21,11,4]
+   n: 850
+   restaurantList: "artisan catering;brain food court;county bbq;el sabroso;fresh brew;perez;red barrel;roly poly;step down cafe;zoots;"
+
+ - problem: 96
+   correct_answer: 609
+   encryptedName: [1984210012,21,19,8,24,17,27,24,1,0,20,9,3,22,19,22,13,19,22,23,24,18,19,23,27,14]
+   n: 860
+   restaurantList: "crazy crab;dos diablos;el burrito amigo;frutyland;grand chinese kitchen;rustic tart;simply elegant catering;turkish cuisine;vienna services;zaiqa restaurant;"
+
+ - problem: 97
+   correct_answer: 48
+   encryptedName: [855636226,12,9,20,13,15,5,15,24,1,1,25,22,11,7,20,1,9,2,6,7,13,2,3,22,3]
+   n: 870
+   restaurantList: "asada;better gourmet restaurant;chi pie pizza;congress pizza;cragin public coffee;eleaven food company;minghin cuisine;mr hoagie;my little rome;pho xe tang restaurant;"
+
+ - problem: 98
+   correct_answer: 302
+   encryptedName: [1749698586,3,25,12,6,13,5,10,16,2,13,13,9,21,12,11,5,24,10,22,12,14,24,23,16,22]
+   n: 880
+   restaurantList: "cafe cancale;el eden saludable;green spirit llc;harolds chicken;johns pizzeria;johns pizzeria;mei shung restaurant;taurus flavors;the rink;three asses;"
+
+ - problem: 99
+   correct_answer: 579
+   encryptedName: [1469348094,22,22,0,9,8,1,20,17,1,7,19,12,2,10,20,6,11,1,18,26,19,4,12,25,9]
+   n: 890
+   restaurantList: "china garden;flavor shack;gogi nara;highball lounge;kay sang;mariscos el fabuloso;plaza lounge;primrose academy;sea food hot pot;sun sub and chicken;"
+
+ - problem: 100
+   correct_answer: 889
+   encryptedName: [1956297539,15,18,5,4,1,1,5,21,0,9,14,9,26,10,7,27,15,16,6,8,25,15,18,25,21]
+   n: 900
+   restaurantList: "archer restaurant;carniceria el porvenir;fearless food kitchen;gorditas la tia;milwaukee daycare;pizzeria uno;reggie pizza;southport city saloon;wing zone;zaiqa indian restaurant;"
